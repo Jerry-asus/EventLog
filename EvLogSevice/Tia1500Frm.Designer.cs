@@ -91,9 +91,9 @@
             this.label3.Location = new System.Drawing.Point(19, 23);
             this.label3.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(205, 21);
+            this.label3.Size = new System.Drawing.Size(176, 21);
             this.label3.TabIndex = 12;
-            this.label3.Text = "Rslogix5000  通讯参数配置:";
+            this.label3.Text = "Tia1500  通讯参数配置:";
             // 
             // label1
             // 
