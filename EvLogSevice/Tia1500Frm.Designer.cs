@@ -67,7 +67,7 @@
             // cbx_AutoStart
             // 
             this.cbx_AutoStart.AutoSize = true;
-            this.cbx_AutoStart.Location = new System.Drawing.Point(457, 187);
+            this.cbx_AutoStart.Location = new System.Drawing.Point(457, 189);
             this.cbx_AutoStart.Margin = new System.Windows.Forms.Padding(8, 9, 8, 9);
             this.cbx_AutoStart.Name = "cbx_AutoStart";
             this.cbx_AutoStart.Size = new System.Drawing.Size(107, 25);
